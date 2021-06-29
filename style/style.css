@@ -1,0 +1,18 @@
+#snake{
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+}
+
+body {
+    height: 570px;
+    width: 960px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(39, 124, 39);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightblue;
+}
+
